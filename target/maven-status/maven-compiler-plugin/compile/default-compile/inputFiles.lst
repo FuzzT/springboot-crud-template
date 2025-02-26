@@ -1,1 +1,5 @@
 /workspaces/springboot-crud-template/src/main/java/com/example/demo/DemoApplication.java
+/workspaces/springboot-crud-template/src/main/java/com/example/demo/controller/ItemController.java
+/workspaces/springboot-crud-template/src/main/java/com/example/demo/model/Item.java
+/workspaces/springboot-crud-template/src/main/java/com/example/demo/repository/ItemRepository.java
+/workspaces/springboot-crud-template/src/main/java/com/example/demo/service/ItemService.java
